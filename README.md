@@ -16,8 +16,9 @@ To start the development server, run the following command:
 
 sqlCopy code
 
-````shell
-npm start```
+```shell
+npm start
+```
 
 This will start the app in development mode and open [http://localhost:3000](http://localhost:3000) in your browser. The page will reload automatically when you make changes.
 
