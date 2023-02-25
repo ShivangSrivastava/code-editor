@@ -8,13 +8,16 @@ To get started with this project, you can clone the repository and run it on you
 
 Copy code
 
-`npm install`
+```shell
+npm install
+```
 
 To start the development server, run the following command:
 
 sqlCopy code
 
-`npm start`
+````shell
+npm start```
 
 This will start the app in development mode and open [http://localhost:3000](http://localhost:3000) in your browser. The page will reload automatically when you make changes.
 
@@ -35,3 +38,4 @@ If you would like to contribute to this project, please fork the repository and 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+````
