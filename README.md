@@ -14,7 +14,6 @@ npm install
 
 To start the development server, run the following command:
 
-sqlCopy code
 
 ```shell
 npm start
